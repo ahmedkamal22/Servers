@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_Message"
+        android:title="Message"
+        android:icon="@drawable/ic_msg"
+        />
+    <item
+        android:id="@+id/navigation_Phone"
+        android:title="Phone"
+        android:icon="@drawable/ic_pgn"
+        />
+    <item
+        android:id="@+id/navigation_Video"
+        android:title="Video"
+        android:icon="@drawable/ic_video"
+        />
+</menu>
